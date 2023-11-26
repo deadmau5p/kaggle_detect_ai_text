@@ -163,3 +163,8 @@ cython_debug/
 data
 
 *venv*
+
+
+.DS_Store
+
+submission.csv
